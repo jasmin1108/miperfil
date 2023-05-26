@@ -1,7 +1,7 @@
 # miperfil
 # Hola Mundo 👋🏻
-Soy **Jasmin Beatriz Arroyo Fernandez**
-vivo en Colombia en la region caribe, soy costeña y amante de la playa, hace poco tiempo atras me enamore del mundo de la tecnologia y el desarrollo web, y hasta hoy sigo fascinada con esta area, me gusta estar en constante aprendizaje y asi mismo crear mis paginas y aplicaciones con amor, estuciasmo y dedicación; a lo largo de mi ruta de aprendizaje he aprendido a como trabajar con diversas herramientas tecológicas que me han permitido desarrollar mi conocimiento en esta industria y ademas me ha permitido obtener experiencia práctica en la creacion y desarrollo de aplicaciones web. 
+Soy **Jasmin Beatriz Arroyo Fernández**
+vivo en Colombia en la región caribe, soy costeña y amante de la playa, hace tiempo atrás me enamore del mundo de la tecnología y el desarrollo web, y hasta hoy sigo fascinada con esta área, me gusta estar en constante aprendizaje y así mismo crear mis páginas y aplicaciones con amor, entusiasmó y dedicación; a lo largo de mi ruta de aprendizaje he aprendido a como trabajar con diversas herramientas tecnológicas que me han permitido desarrollar mi conocimiento en esta industria y ademas me ha permitido obtener experiencia práctica en la creación y desarrollo de aplicaciones web.
 
 ## Educación 👨🏻‍🎓
 2022-2023| Dev.F DEsarrollo web Full Stark
